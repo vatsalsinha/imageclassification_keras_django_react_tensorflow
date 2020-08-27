@@ -17,4 +17,6 @@ run: >>npm run build
 
 >npm start 
 
+on the browser, go to http://localhost:3000
+
 # imageclassification_keras_django_react_tensorflow
