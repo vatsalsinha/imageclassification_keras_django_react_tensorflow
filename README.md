@@ -1,6 +1,6 @@
 Live Demo: coming soon!!!!
 
-Download the whole project.
+In the meanwhile, to run,  download the whole project.
 On your terminal, go the working directory same as manage.py. run:
 
 python manage.py makemigrations
