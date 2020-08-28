@@ -1,5 +1,5 @@
 Live Demo: coming soon!!!!
-
+[
 Upload the image and know what is the image of.
 
 In the meanwhile, to run the project,  download the whole project.
@@ -20,5 +20,7 @@ run: >>npm run build
 >npm start 
 
 on the browser, go to http://localhost:3000
+
+![screenshot](https://github.com/vatsalsinha/imageclassification_keras_django_react_tensorflow/blob/master/Screenshot%20(7).png)
 
 # imageclassification_keras_django_react_tensorflow
