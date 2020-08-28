@@ -21,6 +21,7 @@ run: >>npm run build
 
 on the browser, go to http://localhost:3000
 
+sample view:
 ![screenshot](https://github.com/vatsalsinha/imageclassification_keras_django_react_tensorflow/blob/master/Screenshot%20(7).png)
 
 # imageclassification_keras_django_react_tensorflow
