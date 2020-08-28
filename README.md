@@ -1,5 +1,7 @@
 Live Demo: coming soon!!!!
 
+Upload the image and know what is the image of.
+
 In the meanwhile, to run the project,  download the whole project.
 Make sure tensorflow is installed. If tensorflow is installed and still not working, try using virtual environment
 
