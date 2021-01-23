@@ -24,4 +24,6 @@ on the browser, go to http://localhost:3000
 sample view:
 ![screenshot](https://github.com/vatsalsinha/imageclassification_keras_django_react_tensorflow/blob/master/Screenshot%20(7).png)
 
+sample video link: https://drive.google.com/file/d/1F5uidUn32m9a8we4PRKpfc_5-U53UAPD/view?usp=drivesdk
+
 # imageclassification_keras_django_react_tensorflow
